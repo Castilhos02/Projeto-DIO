@@ -1,6 +1,6 @@
 # 🏁 Sport Club Corinthians Paulista – Projeto DIO 🏁
 
-![Corinthians Campeão Mundial 2012](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Corinthians-Chelsea-Copa_do_Mundo_de_Clubes_da_FIFA_2012.jpg/1280px-Corinthians-Chelsea-Copa_do_Mundo_de_Clubes_da_FIFA_2012.jpg)
+![Corinthians Campeão Mundial 2012](https://a.espncdn.com/photo/2020/1117/r777229_1296x729_16-9.jpg))
 
 > _“Aqui tem um bando de louco! Louco por ti, Corinthians!”_
 
@@ -91,36 +91,3 @@ Um dos maiores movimentos políticos da história do futebol.
 - [x] Mundial de 2012 – Chelsea 0 x 1 Corinthians
 
 ---
-
-## 🤝 Como Contribuir
-
-Quer adicionar mais conteúdo?
-
-1. Faça um fork
-2. Crie uma nova branch: `git checkout -b historia-do-basílio`
-3. Adicione arquivos ou edite seções
-4. Commit: `git commit -m "Adiciona seção sobre o Basílio"`
-5. Push: `git push origin historia-do-basílio`
-6. Abra um Pull Request
-
----
-
-## 🧭 Organização do Repositório
-
-```bash
-corinthians-acervo/
-├── README.md
-├── titulos/
-│   ├── brasileirao.md
-│   ├── libertadores.md
-│   └── mundial.md
-├── idolos/
-│   ├── socrates.md
-│   ├── cassio.md
-│   └── marcelinho.md
-├── democracia-corintiana/
-│   └── manifesto.md
-├── elenco-atual/
-│   └── 2025.json
-└── imagens/
-    └── mundial-2012.jpg
