@@ -1,6 +1,6 @@
 # 🏁 Sport Club Corinthians Paulista – Projeto DIO 🏁
 
-![Corinthians Campeão Mundial 2012](https://a.espncdn.com/photo/2020/1117/r777229_1296x729_16-9.jpg))
+![Corinthians Campeão Mundial 2012](https://a.espncdn.com/photo/2020/1117/r777229_1296x729_16-9.jpg)(Foto do título Mundial de 2012)
 
 > _“Aqui tem um bando de louco! Louco por ti, Corinthians!”_
 
